@@ -110,7 +110,7 @@ pub fn load_images(gfx: &mut Graphics) -> HashMap<String, Texture> {
     image_data_list.insert(String::from("Terror"), include_bytes!("./images/icons/Terror.png"));
     image_data_list.insert(String::from("Thorns"), include_bytes!("./images/icons/Thorns.png"));
     image_data_list.insert(String::from("ThrowingMastery"), include_bytes!("./images/icons/ThrowingMastery.png"));
-    image_data_list.insert(String::from("Thunderstorm"), include_bytes!("./images/icons/ThunderStorm.png"));
+    image_data_list.insert(String::from("Thunderstorm"), include_bytes!("./images/icons/Thunderstorm.png"));
     image_data_list.insert(String::from("TigerStrike"), include_bytes!("./images/icons/TigerStrike.png"));
     image_data_list.insert(String::from("Valkyrie"), include_bytes!("./images/icons/Valkyrie.png"));
     image_data_list.insert(String::from("VenomClaws"), include_bytes!("./images/icons/VenomClaws.png"));
